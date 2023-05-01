@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    background-color: pink;
+}
+.img{
+    
+    border: 2px solid palevioletred;
+    margin: 10px 50px 10px;
+}
